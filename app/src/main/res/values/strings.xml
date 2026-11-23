@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">PDF Scan</string>
+    <string name="app_tagline">Precision Document Scanner &amp; PDF Studio</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_documents">Documents</string>
+    <string name="nav_folders">Folders</string>
+    <string name="nav_tools">PDF Tools</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_next">Continue</string>
+    <string name="onboarding_get_started">Start Scanning</string>
+    <string name="onboarding_title_1">Crystal-Clear Scanning</string>
+    <string name="onboarding_desc_1">Capture multi-page documents, receipts, and ID cards with smart edge detection and instant perspective correction.</string>
+    <string name="onboarding_title_2">Studio Filters &amp; Signatures</string>
+    <string name="onboarding_desc_2">Enhance scans into crisp print-ready PDFs, apply monochrome or magic filters, and sign documents directly on your device.</string>
+    <string name="onboarding_title_3">Complete Local PDF Toolkit</string>
+    <string name="onboarding_desc_3">Merge, split, compress, extract OCR text, and organize everything into folders locally — no account required.</string>
+
+    <!-- Home Dashboard -->
+    <string name="dashboard_greeting">Document Workspace</string>
+    <string name="dashboard_search_hint">Search documents, folders, OCR text…</string>
+    <string name="action_scan_document">Scan Document</string>
+    <string name="action_import_images">Import Images</string>
+    <string name="action_image_to_pdf">Image to PDF</string>
+    <string name="action_pdf_to_images">PDF to Images</string>
+    <string name="action_merge_pdf">Merge PDF</string>
+    <string name="action_split_pdf">Split PDF</string>
+    <string name="action_compress_pdf">Compress PDF</string>
+    <string name="action_sign_pdf">Sign PDF</string>
+    <string name="action_ocr_scanner">OCR Text Scanner</string>
+    <string name="action_id_card_scanner">ID Card Scanner</string>
+    <string name="section_quick_tools">PDF &amp; Scan Tools</string>
+    <string name="section_recent_documents">Recent Documents</string>
+    <string name="action_view_all">View All</string>
+
+    <!-- Empty States & Actions -->
+    <string name="empty_documents_title">No scanned documents yet</string>
+    <string name="empty_documents_desc">Tap Scan Document or Import Images to create your first crisp PDF.</string>
+    <string name="empty_folders_title">Organize with Folders</string>
+    <string name="empty_folders_desc">Group invoices, IDs, receipts, and contracts for instant access.</string>
+    <string name="action_share">Share</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_save">Save</string>
+    <string name="action_create">Create</string>
+    <string name="action_move_folder">Move to Folder</string>
+    <string name="action_export_jpg">Export JPG</string>
+    <string name="action_export_png">Export PNG</string>
+
+    <!-- Camera & Editor -->
+    <string name="camera_permission_title">Camera Access Needed</string>
+    <string name="camera_permission_desc">PDF Scan uses your camera to capture sharp multi-page documents and ID cards locally on your device.</string>
+    <string name="camera_grant_permission">Allow Camera</string>
+    <string name="camera_mlkit_smart">Smart Auto-Scan</string>
+    <string name="crop_title">Crop &amp; Adjust</string>
+    <string name="crop_auto_detect">Auto Detect</string>
+    <string name="crop_reset">Full Page</string>
+    <string name="crop_rotate">Rotate 90°</string>
+    <string name="enhance_title">Enhance &amp; Filter</string>
+    <string name="enhance_save_pdf">Save PDF</string>
+    <string name="enhance_apply_all">Apply filter to all pages</string>
+
+    <!-- Settings & About PDF Scan -->
+    <string name="cd_navigate_back">Back</string>
+    <string name="settings_item_app_settings">App Settings</string>
+    <string name="settings_item_app_settings_sub">Scanner, PDF and storage options</string>
+    <string name="settings_item_appearance">Appearance</string>
+    <string name="settings_item_appearance_sub">Theme, dark mode</string>
+    <string name="settings_item_backup_restore">Backup &amp; Restore</string>
+    <string name="settings_item_backup_restore_sub">Save and restore app data</string>
+    <string name="settings_item_about_app">About App</string>
+    <string name="settings_item_about_app_sub">App info, founder and version</string>
+    <string name="settings_item_contact_developer">Contact Developer</string>
+    <string name="settings_item_contact_developer_sub">Get support or send feedback</string>
+    <string name="settings_item_privacy_policy">Privacy Policy</string>
+    <string name="settings_item_privacy_policy_sub">How we collect and use your data</string>
+    <string name="settings_item_rate_us">Rate Us</string>
+    <string name="settings_item_rate_us_sub">Support us on Google Play</string>
+    <string name="settings_item_share_app">Share App</string>
+    <string name="settings_item_share_app_sub">Share PDF Scan with your friends</string>
+
+    <string name="about_screen_title">About PDF Scan</string>
+    <string name="about_founder_section_title">Founder &amp; Developer</string>
+    <string name="about_the_app_heading">About the App</string>
+    <string name="about_website_label">Website</string>
+    <string name="about_country_label">Country</string>
+    <string name="about_contact_label">Contact</string>
+    <string name="about_founder_avatar_cd">%1$s profile photo</string>
+    <string name="about_open_website_cd">Open website</string>
+</resources>

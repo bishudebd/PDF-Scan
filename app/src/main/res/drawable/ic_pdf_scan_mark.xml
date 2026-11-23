@@ -1,0 +1,55 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="72dp"
+    android:height="72dp"
+    android:viewportWidth="72"
+    android:viewportHeight="72">
+
+    <!-- Dark navy rounded-square app mark background -->
+    <path
+        android:fillColor="#0E1726"
+        android:pathData="M18,0L54,0A18,18 0,0 1,72 18L72,54A18,18 0,0 1,54 72L18,72A18,18 0,0 1,0 54L0,18A18,18 0,0 1,18 0Z" />
+
+    <!-- Top-left scanner corner bracket -->
+    <path
+        android:pathData="M17,27L17,20Q17,17 20,17L27,17"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="3.2" />
+
+    <!-- Top-right scanner corner bracket -->
+    <path
+        android:pathData="M45,17L52,17Q55,17 55,20L55,27"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="3.2" />
+
+    <!-- Bottom-left scanner corner bracket -->
+    <path
+        android:pathData="M17,45L17,52Q17,55 20,55L27,55"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="3.2" />
+
+    <!-- Bottom-right scanner corner bracket -->
+    <path
+        android:pathData="M45,55L52,55Q55,55 55,52L55,45"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="3.2" />
+
+    <!-- Crisp white document sheet -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M27,23L45,23A2.5,2.5 0,0 1,47.5 25.5L47.5,46.5A2.5,2.5 0,0 1,45 49L27,49A2.5,2.5 0,0 1,24.5 46.5L24.5,25.5A2.5,2.5 0,0 1,27 23Z" />
+
+    <!-- Document text lines -->
+    <path
+        android:pathData="M30,31L42,31M30,36.5L42,36.5M30,42L38,42"
+        android:strokeColor="#0E1726"
+        android:strokeLineCap="round"
+        android:strokeWidth="2.6" />
+</vector>

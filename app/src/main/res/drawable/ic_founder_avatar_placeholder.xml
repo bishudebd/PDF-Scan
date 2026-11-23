@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+
+    <!-- Neutral light blue-slate circular background -->
+    <path
+        android:fillColor="#E2EBF8"
+        android:pathData="M48,0A48,48 0,1 1,48 96A48,48 0,1 1,48 0Z" />
+
+    <!-- Soft inner circle -->
+    <path
+        android:fillColor="#EDF3FC"
+        android:pathData="M48,4A44,44 0,1 1,48 92A44,44 0,1 1,48 4Z" />
+
+    <!-- Neutral person head placeholder -->
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M48,24A14,14 0,1 1,48 52A14,14 0,1 1,48 24Z" />
+
+    <!-- Neutral person shoulders placeholder -->
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M21,82C24,67.5 34.5,60 48,60C61.5,60 72,67.5 75,82C67.8,88.2 58.3,92 48,92C37.7,92 28.2,88.2 21,82Z" />
+</vector>

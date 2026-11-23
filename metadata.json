@@ -1,0 +1,6 @@
+{
+  "name": "PDF Scan",
+  "description": "Native Android document scanner and PDF editor with multi-page scanning, automatic edge detection, image enhancement filters, OCR text extraction, digital signatures, and complete local PDF tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
